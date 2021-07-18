@@ -682,3 +682,11 @@ div, section, ::after, ::before{
   }
 }
 
+.video{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-top: 650px;
+  padding-bottom: 50px;
+}
+
